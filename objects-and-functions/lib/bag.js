@@ -13,10 +13,14 @@ Bag.prototype.push = function(candy) {
   this.candies.push(candy);
 };
 
-Bag.prototype.contains = function(candy_type) {
-  this.candies.forEach(function(candy) {
-    return (candy.type === candy_type);
-  });
+Bag.prototype.contains = function(candy) {
+  for(var i = 0; i < this.candies.length; i++) {
+    if (this.candies[i].type == candy) {
+      return true;
+    } else {
+      return false;
+    }
+  }
 };
 
 module.exports = Bag;

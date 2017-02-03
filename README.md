@@ -1,3 +1,5 @@
+NOTE: _This is a series of exercises I wrote, or adapted, to teach programming students the fundamentals of JavasScript._
+
 # JavaScript Foundations
 
 Each exercise emphasises the fundamentals of object oriented programming in JavaScript.

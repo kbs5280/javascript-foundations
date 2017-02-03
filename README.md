@@ -1,4 +1,4 @@
-NOTE: _This is a series of exercises I wrote, or adapted, to teach programming students the fundamentals of JavasScript._
+NOTE: _This is a series of exercises I wrote, or adapted, to teach programming students JavaScript fundamentals._
 
 # JavaScript Foundations
 
